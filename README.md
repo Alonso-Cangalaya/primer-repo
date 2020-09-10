@@ -1,4 +1,4 @@
-# Pimer Repo :tw-1f47e:
+# Pimer Repo
 esta este es mi primer repositorios que he hecho en github. sus funcionalidades son increibles.
 
 > mi nombre es: Alonso Cangalaya
@@ -10,7 +10,7 @@ intereses: mundo tech
 actualmente estoy llevando a la practica la clase de README.md para poder hacer una descripción de lo que se trata mi primer repositorio.
 El curso de platzi lo pueden encontrar [aquí](https://platzi.com/clases/git-github/ "aquí")
 
-###mis redes sociales:
+##mis redes sociales:
 - [twitter](https://twitter.com/AlonsoCangalaya "twitter")
 - [linkedin](https://www.linkedin.com/in/alonso-cangalaya-99359b172/ "linkedin")
 - [instagram](https://www.instagram.com/alonsocangalaya/?hl=es-la "instagram")
