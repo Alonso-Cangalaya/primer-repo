@@ -44,3 +44,8 @@ cambio 6
 cambiooooooo 7 = este es el cambio que quiero llevar a la rrama master
 
 
+<<<<<<< HEAD
+=======
+cambio 8
+cambio 9
+>>>>>>> readme-mejorado
