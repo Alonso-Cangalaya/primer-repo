@@ -35,4 +35,12 @@ cambio 2}: hola
 
 cambio 3
 
+<<<<<<< HEAD
 cambio 4
+=======
+cambio 4
+
+cambio 5
+
+cambio 6
+>>>>>>> readme-mejorado
