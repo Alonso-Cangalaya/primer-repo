@@ -27,4 +27,6 @@ Este es un parrafo en español y estoy probando el comando git cherry-pick para 
 
 This is a english paragraf, this is a new commit
 
-This is a other paragraf of few words 
+This is a other paragraf of few words
+
+cambio 1
