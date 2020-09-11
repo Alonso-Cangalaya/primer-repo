@@ -29,4 +29,12 @@ This is a english paragraf, this is a new commit
 
 This is a other paragraf of few words
 
+<<<<<<< HEAD
 cambio 1
+=======
+cambio 1
+
+cambio 2}: hola
+
+cambio 3
+>>>>>>> 279b5fe... cambio3
