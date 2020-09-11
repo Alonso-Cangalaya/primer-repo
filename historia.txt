@@ -31,23 +31,16 @@ This is a other paragraf of few words
 
 cambio 1
 
-cambio 2}: hola
+cambio 2: hola
 
 cambio 3
 
-<<<<<<< HEAD
-cambio 4
-=======
-cambio 4
 cambio 4
 
 cambio 5
 
 cambio 6
-<<<<<<< HEAD
->>>>>>> readme-mejorado
-=======
-
 
 cambiooooooo 7 = este es el cambio que quiero llevar a la rrama master
->>>>>>> readme-mejorado
+
+
