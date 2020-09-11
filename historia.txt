@@ -24,3 +24,5 @@ Now, i'm studing git y github in platzi, my favorite community of ingeniering an
 Mi favorite teacher is feddy becose, he has a lot of programing experience.
 
 Este es un parrafo en español y estoy probando el comando git cherry-pick para poder margar un mommir al HEAD  de una rama
+
+This is a english paragraf, this is a new commit
